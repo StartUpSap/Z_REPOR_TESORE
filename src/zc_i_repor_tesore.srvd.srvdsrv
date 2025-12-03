@@ -1,0 +1,4 @@
+@EndUserText.label: 'Servicio Reporte Tesoreria'
+define service ZC_I_REPOR_TESORE {
+  expose ZC_I_REPOR_TESORE;
+}

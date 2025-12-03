@@ -1,0 +1,4 @@
+@EndUserText.label: 'Matchcode para Monedas'
+define service ZC_I_MONEDA {
+  expose ZC_I_MONEDA;
+}
